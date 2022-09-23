@@ -1,16 +1,13 @@
-# trip_it_project
+# TripIT
+This is Flutter Task for Mobile Using (Provider + Some of MVVM)
 
-A new Flutter project.
+## Developer:
+Hamdy Khalid dawood
 
-## Getting Started
+## Links
+* [My Socials](https://znap.link/hamdy_Dawood)
+* [Instagram](https://www.instagram.com/hamdy_khalid_)
 
-This project is a starting point for a Flutter application.
+## Preview
+https://user-images.githubusercontent.com/77101158/191957078-ad4b945c-4442-4993-9459-e9ed3156f637.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
